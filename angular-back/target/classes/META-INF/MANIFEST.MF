@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: angular-back
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: yuqian
+Implementation-Vendor-Id: cn.com.liandi.gbu
+Build-Jdk: 1.8.0_102
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
